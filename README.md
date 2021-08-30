@@ -17,7 +17,7 @@ Current branch is main branch
 Clone the project in your system
 mvn clean install
 mvn spring-boot:run
-create a new branch named by your **<firstname>-feature** . Example aditi-feature
+create a new branch named by firstname-feature . Example aditi-feature
 Commit your changes and inform the team
 
 
