@@ -9,7 +9,8 @@
 	6. /comments/{id} fetches all the comments with id 
 
 ### for jwt implementaion 
-	1. used constant username:user, password:password
-	2. used bearer token for further communication
+	1./authenticate to login (user,password) pass as({"username":"user","password":"password"} in post body
+	2. used constant username:user, password:password
+	3. used bearer token for further communication
 
 	had some help from internet on this
